@@ -1,5 +1,7 @@
 # Heterogeneous Multi-modal Hybrid Attention Fusion for Exercise Recognition
 
+MEx Dataset: https://archive.ics.uci.edu/ml/datasets/MEx
+
 Published at the 2020 International Joint Conference on Neural Networks (IJCNN 2020) colocated with the 2020 Institute of Electrical and Electronics Engineers (IEEE) World computational intelligence congress (WCCI 2020).
 
 To Cite:
