@@ -5,6 +5,7 @@ MEx Dataset: https://archive.ics.uci.edu/ml/datasets/MEx
 Published at the 2020 International Joint Conference on Neural Networks (IJCNN 2020) colocated with the 2020 Institute of Electrical and Electronics Engineers (IEEE) World computational intelligence congress (WCCI 2020).
 
 To Cite:
+```bib
 @INPROCEEDINGS{9206941,
   author={A. {Wijekoon} and N. {Wiratunga} and K. {Cooper}},
   booktitle={2020 International Joint Conference on Neural Networks (IJCNN)}, 
@@ -14,3 +15,4 @@ To Cite:
   number={},
   pages={1-8},
   doi={10.1109/IJCNN48605.2020.9206941}}
+```
